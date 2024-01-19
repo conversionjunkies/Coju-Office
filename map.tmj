@@ -5125,6 +5125,23 @@
                  "width":322.904547828584,
                  "x":1787.05,
                  "y":1152.9705
+                }, 
+                {
+                 "height":196.969696969697,
+                 "id":33,
+                 "name":"wind",
+                 "properties":[
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"wind.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":190.909090909091,
+                 "x":1436.36363636364,
+                 "y":1945.45454545455
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -7032,8 +7049,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":180,
- "nextobjectid":29,
+ "nextlayerid":185,
+ "nextobjectid":34,
  "orientation":"orthogonal",
  "properties":[
         {
