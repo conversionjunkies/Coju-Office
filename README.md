@@ -1,4 +1,4 @@
-# WorkAdventure Map Starter Kit (testing)
+# WorkAdventure Map Starter Kit
 
 ![map](./map.png)
 
