@@ -5505,7 +5505,7 @@
                          "name":"CherryTree 1",
                          "opacity":1,
                          "type":"tilelayer",
-                         "visible":true,
+                         "visible":false,
                          "width":83,
                          "x":0,
                          "y":0
@@ -5598,7 +5598,7 @@
                          "name":"CherryTree 2",
                          "opacity":1,
                          "type":"tilelayer",
-                         "visible":true,
+                         "visible":false,
                          "width":83,
                          "x":0,
                          "y":0
@@ -5691,7 +5691,7 @@
                          "name":"CherryTree 3",
                          "opacity":1,
                          "type":"tilelayer",
-                         "visible":true,
+                         "visible":false,
                          "width":83,
                          "x":0,
                          "y":0
