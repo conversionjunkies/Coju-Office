@@ -47,7 +47,6 @@ jobs:
         run: npm run upload-only
 
       - name: Deploy on GITHUB PAGES
-        if: ${{ env.UPLOAD_MODE == 'GH_PAGES' }}
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
